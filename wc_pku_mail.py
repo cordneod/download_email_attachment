@@ -108,8 +108,8 @@ def get_page(url):
 if __name__ == '__main__':
 
     #---------------参数------------------
-    email_address = '1901111135@pku.edu.cn'
-    email_password = 'lihui327'
+    email_address = '190xxxxxxx@pku.edu.cn'
+    email_password = 'xxxxxxxx'
     pop3_server = 'mail.pku.edu.cn'
     search_count = 50
     base_save_path = './pku_mail/'
